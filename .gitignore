@@ -13,3 +13,7 @@ wheels/
 *.env
 .venv/
 __pycache__/
+
+# Local vector database and agent memory
+chroma_db/
+agent_memory.db
